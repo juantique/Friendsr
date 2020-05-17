@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ImageGrid</string>
+    <string name="action_settings">Configuración</string>
+    <string name="titulo_actividad_detalle">Actividad De Detalle</string>
+</resources>
